@@ -70,7 +70,7 @@
             bindings = <
 &kp GRAVE  &kp N1           &kp N2            &kp N3          &kp N4                &kp N5                                &mmv MOVE_UP                     &kp N6      &kp N7    &kp N8            &kp N9             &kp N0  &trans
 &trans     &trans           &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &trans                &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp LEFT    &kp DOWN  &kp UP            &kp RIGHT          &trans  &trans
-&trans     &rgb_ug RGB_OFF  &rgb_ug RGB_ON    &trans          &trans                &trans  &kp C_MUTE                    &mmv MOVE_DOWN                   &trans      &trans    &kp LEFT_BRACKET  &kt RIGHT_BRACKET  &trans  &trans
+&trans     &rgb_ug RGB_OFF  &rgb_ug RGB_ON    &trans          &trans                &trans  &kp C_MUTE                    &mmv MOVE_DOWN                   &trans      &trans    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans  &trans
                                               &trans          &trans                &trans                                                                 &kp DELETE  &trans    &trans
             >;
 
