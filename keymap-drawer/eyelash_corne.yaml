@@ -48,7 +48,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: NUMBER}
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: \, h: SYMBOL}
+  - {t: \, h: SYMBOL, s: '|'}
   NUMBER:
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}

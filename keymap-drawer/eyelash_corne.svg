@@ -537,7 +537,8 @@ rect.held, rect.combo.held {
 <text x="0" y="-4" class="key tap">\</text>
 <a href="#SYMBOL">
 <text x="0" y="24" class="key hold layer-activator">SYMBOL</text>
-</a></g>
+</a><text x="0" y="-24" class="key shifted">|</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 318)" class="layer-NUMBER">
