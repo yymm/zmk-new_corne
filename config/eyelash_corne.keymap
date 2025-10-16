@@ -73,7 +73,7 @@
                          &kp LGUI  &mo 1  &lt 3 SPACE                                               &lt 3 ENTER  &mo 2  &kp RALT
             >;
 
-            sensor-bindings = <&inc_dec_kp RIGHT_BRACKET LEFT_BRACKET>;
+             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
 
         lower_layer {
